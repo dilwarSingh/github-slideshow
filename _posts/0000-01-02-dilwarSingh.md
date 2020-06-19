@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-gnrmt     thr rj ry
+my new text
 Use the left arrow to go back!
